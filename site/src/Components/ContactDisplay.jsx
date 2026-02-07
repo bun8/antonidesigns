@@ -61,7 +61,7 @@ export default function ContactDisplay({ part="header" }) {
       <div style={{ fontSize: fontSize + 'px' }} className="flex flex-col space-y-[1em]">
         {/* <Link link="" text="LinkedIn"/> */}
         <Link link="https://www.linkedin.com/in/antoni-ferkaluk/" text="LinkedIn" />
-        <Link link="https://github.com/tyruji/" text="GitHub" />
+        <Link link="https://github.com/bun8/" text="GitHub" />
         <Link link="mailto:antoniferkaluk5@gmail.com" text="antoniferkaluk5@gmail.com"/>
       </div>
       <div className="">
